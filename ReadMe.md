@@ -43,9 +43,9 @@ This project demonstrates a complete data cleaning workflow on a raw sales datas
 
 - MySQL
 - SQL queries
-- VS Code (or any SQL IDE)
+- MySQL WOrkbench
 
 ---
 
-## 📁 Project Structure
+
 
